@@ -1,0 +1,17 @@
+{
+  "name": "gulp-bower-file-uglify",
+  "version": "1.0.0",
+  "authors": [
+    "Tony Dieu"
+  ],
+  "description": "Concat & uglify main bower js files",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {}
+}
